@@ -1,3 +1,6 @@
-I plan to use the books "abstract algebra" by dummit and foote, "algebra: chapter 0" by Aluffi for algebra qual exam.   
-baby rudin and big rudin for analysis. Maybe also conway's complex analysis, because I heard from Dr.Lou that this is a great book.     
-
+I plan to use the books:  
+Abstract Algebra by Dummit and Foote  
+Algebra: Chapter 0 by Paolo Aluffi  
+Baby Rudin  
+Big Rudin  
+Maybe, Functions of one complex variable by Conway
