@@ -1,3 +1,4 @@
+2024/04/04  
 I plan to use the books:  
 Abstract Algebra by Dummit and Foote  
 Algebra: Chapter 0 by Paolo Aluffi  
