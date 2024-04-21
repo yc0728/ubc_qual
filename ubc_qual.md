@@ -15,4 +15,4 @@ PS: there is a surprising result for finite groups: There is a unique fixed poin
 
 
 2024/04/21 
-A few days ago, I was reading the baby rudin. There is an amazing result: Let $\sum a_n$ be a series that converges non-absolutely. Let $-\infty\leq\alpha\leq\beta\infty$. Then there exists an rearrangement, $\sum a^{'}_n$ with partial sum $s_n^{'}, such that $liminf s_n^{'} = \alpha$ and $limsup s_n^{'} = \beta$.
+A few days ago, I was reading the baby rudin. There is an amazing result: Let $\sum a_n$ be a series that converges non-absolutely. Let $-\infty\leq\alpha\leq\beta\leq\infty$. Then there exists an rearrangement, $\sum a^{'}_n$ with partial sum $s_n^{'}$, such that $liminf s_n^{'} = \alpha$ and $limsup s_n^{'} = \beta$.
