@@ -19,5 +19,5 @@ A few days ago, I was reading the baby rudin. There is an amazing result: Let $\
 
 
 
-2024/04/25 
+2024/04/25   
 Today, I did an interesting exercise on Baby Rudin. For a metric space $X$, there exists a completion, $X^*$. So I thought maybe we can construct $\mathbb{R}$ out of $\mathbb{Q}$ from completion. 
