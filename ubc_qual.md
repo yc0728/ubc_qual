@@ -33,4 +33,4 @@ Some non-academic update: I failed my driving license Subject 2 test today. I di
 
 
 2024/05/25 
-I recently think of (maybe inspired) a proof of Bezout's theorem of integers. Let m,n be positive integers, gcd(m,n)=1, then there exists a,b such that am + bn =1. Although this result can be generalized to much bigger rings, perhaps UFD, let us only talk about integers now. The proof does not need Euclidean ALgorithm. Since gcd(m,n)=1, $[m]_n$ generates $\mathbb{Z}/n\mathbb{Z}$. So $[1]_n = a[m]_n$. This means $1\cong am$ mod $n$. Hence bn = 1 - am. 
+I recently think of (maybe inspired) a proof of Bezout's theorem of integers. Let m,n be positive integers, gcd(m,n)=1, then there exists a,b such that am + bn =1. Although this result can be generalized to much bigger rings, perhaps UFD, let us only talk about integers now. The proof does not need Euclidean ALgorithm. Since gcd(m,n)=1, $[m]_n$ generates $\mathbb{Z}/n\mathbb{Z}$. So $[1]_n = a[m]_n$. This means $1\equiv am$ mod $n$. Hence bn = 1 - am. 
