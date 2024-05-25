@@ -28,4 +28,9 @@ I did the exercise a few days ago, construct $\mathbb{R}$ from Cauchy sequences.
 
 I also switched my algebra book to algebra: chapter 0. Dummit&Foote's book is too detailed. It kind of makes me bored. I only read a few section of Paolo's book. Great! I like it! 
 
-Some non-academic update: I failed my driving license Subject 2 test today. I did pretty well at the mock tests. I nailed the mock tests. But I failed the test. I am afraid that this will delay my plan. But i comfort myself: If the plan can be delayed for 20 days, it is probably not very urgent. Furthermore, I am lucky for two times: got distinction and got admission from UBC. So it is time for me to be not luck. And it is just a driving test, not some big thing, so embrace it! Imagine Henderson, my failed driving test is not a problem, I will try next time!
+Some non-academic update: I failed my driving license Subject 2 test today. I did pretty well at the mock tests. I nailed the mock tests. But I failed the test. I am afraid that this will delay my plan. But i comfort myself: If the plan can be delayed for 20 days, it is probably not very urgent. Furthermore, I am lucky for two times: got distinction and got admission from UBC. So it is time for me to be not luck. And it is just a driving test, not some big thing, so embrace it! Imagine Henderson, my failed driving test is not a problem, I will try next time! 
+
+
+
+2024/05/25 
+I recently think of (maybe inspired) a proof of Bezout's theorem of integers. Let m,n be positive integers, gcd(m,n)=1, then there exists a,b such that am + bn =1. Although this result can be generalized to much bigger rings, perhaps UFD, let us only talk about integers now. The proof does not need Euclidean ALgorithm. Since gcd(m,n)=1, $[m]_n$ generates $\mathbb{Z}/n\mathbb{Z}$. So $[1]_n = a[m]_n$. This means $1\cong am$ mod $n$. Hence bn = 1 - am. 
