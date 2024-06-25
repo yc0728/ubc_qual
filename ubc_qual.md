@@ -38,4 +38,8 @@ I recently think of (maybe inspired) a proof of Bezout's theorem of integers. Le
 
 
 2024/05/27  
-I have to say, so far, the only topic makes me exicted in real analysis is integration! 
+I have to say, so far, the only topic makes me exicted in real analysis is integration!   
+
+
+2024/06/25 
+Before reading baby rudin, I thought the amaze of taylor theorem is to use polynomial approximate functions. But the theorem is also a generalization of the mean value theorem! Let $f$ be a differentiable function on $\[a,b\]$, then we know there exists $x\in \(a,b\)$ such that $f(b)-f(a) = f'(x)(b-a)$. This can be generalized to n-th derivative. $f(b) - f(a) = \frac{f^n(x)}{n!}(b-a)^n$.
