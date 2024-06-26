@@ -46,4 +46,8 @@ Before reading baby rudin, I thought the amaze of taylor theorem is to use polyn
 
 Also, sequence of function is fun!  
 
-Also Also, I am worried. Worried about the qual exam, worried about my driving test. 
+Also Also, I am worried. Worried about the qual exam, worried about my driving test.  
+
+
+2024/06/26  
+Today, I learned equicontinuity, happy happy happy.
