@@ -53,6 +53,6 @@ Also Also, I am worried. Worried about the qual exam, worried about my driving t
 Today, I learned equicontinuity, happy happy happy.  
 
 
-2024/06/29 
+2024/06/29    
 I am amazed by weierstrass theorem, every real continuous function on $\[a,b\]$ can be approxiamted by a sequence of polynomials! One more reason to study polynomial. Since polynomial functions form an algebra which separates points and vanishes at no points. This theorem can be generalized by Stone.  
 PS: Rudin's exercises are difficult!
