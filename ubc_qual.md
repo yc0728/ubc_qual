@@ -60,3 +60,7 @@ PS: Rudin's exercises are difficult!
 
 2024/07/04 
 I have to say, some construction of rudin's book is too clever to get the intuition.
+
+
+2025/01/04
+好久没写了，前一段出了一些事，现在希望新的一年一切都好，你好我好大家好！
